@@ -1,0 +1,57 @@
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Simple Auth SystemProject.exe
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Simple Auth SystemProject.deps.json
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Simple Auth SystemProject.runtimeconfig.json
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Simple Auth SystemProject.runtimeconfig.dev.json
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Simple Auth SystemProject.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Simple Auth SystemProject.pdb
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.csproj.AssemblyReference.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.AssemblyInfoInputs.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.AssemblyInfo.cs
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.csproj.CoreCompileInputs.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.MvcApplicationPartsAssemblyInfo.cs
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.MvcApplicationPartsAssemblyInfo.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.RazorTargetAssemblyInfo.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\staticwebassets\Simple Auth SystemProject.StaticWebAssets.Manifest.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\staticwebassets\Simple Auth SystemProject.StaticWebAssets.Pack.cache
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Simple Auth SystemProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Simple Auth SystemProject.props
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Simple Auth SystemProject.props
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Simple Auth SystemProject.props
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple A.46FA2C47.Up2Date
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.dll
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.pdb
+D:\IET\project\login registeration project\Simple Auth SystemProject\Simple Auth SystemProject\obj\Debug\netcoreapp3.1\Simple Auth SystemProject.genruntimeconfig.cache
